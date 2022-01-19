@@ -1,0 +1,47 @@
+#map {
+  height: 70%;
+  width:100%;
+  float: left;
+}
+
+/* Optional: Makes the sample page fill the window. */
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.div1{
+  width:100%;
+  float: left;
+  height: 30%;
+}
+
+.container{
+  height:100%; width:100%;
+}
+
+body{
+  color: #2D334A;
+  text-align: center;
+}
+
+h1{
+  font-family: 'Inter', sans-serif;
+}
+
+p{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.eats{
+  color: #7CD1B8;
+}
+
+.logo{
+  height:50px;
+  width:50px;
+}
